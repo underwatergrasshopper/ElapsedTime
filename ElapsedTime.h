@@ -31,7 +31,9 @@
 #ifndef ELAPSEDTIME_H_
 #define ELAPSEDTIME_H_
 
+#define WIN32_LEAN_AND_MEAN 
 #include <windows.h>
+#undef WIN32_LEAN_AND_MEAN 
 
 /** Measures difference in seconds between two points in code. */
 class ElapsedTime {
