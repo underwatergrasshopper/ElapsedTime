@@ -1,7 +1,7 @@
 # ElapsedTime
 Simple C++ library for measurement of elapsed time between two points in code.
 
-To use this library in project, followed files are required to be copied into source folder: `ElapsedTime.h`, `ElapsedTime.cpp`.
+To use this library in project, followed files are required to be included into project source folder: `ElapsedTime.h`, `ElapsedTime.cpp`.
 
 # Usage
 
