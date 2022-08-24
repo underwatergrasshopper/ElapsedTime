@@ -5,7 +5,7 @@ To use this library in project, followed files are required to be included into 
 
 Successfuly compiled on:
 - MS Visual Studio 2022
-- GCC (with MinGW 13.0.0, by using `g++ -std=c++11 -O3 *.cpp -o test.exe && test.exe` in project dirctory)
+- GCC (with MinGW 13.0.0, by using `g++ -std=c++11 -O3 *.cpp -o test.exe && test.exe` in project directory)
 
 Target platforms: Windows 7/8/10
 
