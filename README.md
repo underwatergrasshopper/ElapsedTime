@@ -10,8 +10,10 @@ et.Start();
 et.Stop();
 
 printf("%f\n", et.Get());
-```c++
+```
+
 ## Example 2
+```c++
 ElapsedTime et;
 
 et.Reset();
