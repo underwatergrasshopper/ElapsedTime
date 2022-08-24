@@ -1,2 +1,2 @@
 # ElapsedTime
-Simple C++ library for elapsed time measurement between two points in code.
+Simple C++ library for measurement of elapsed time between two points in code.
